@@ -1,0 +1,11 @@
+Modun Sim900A
+
+noi chan
+(doc tu angten)
+VCC +5V; 3.3V neu khong co tu noi hai chan VCC va GND
+PWR //power Reset
+SPK  // speaker
+MIC  //micro
+TX noi chan 3
+RX noi chan 4
+GND
